@@ -4,7 +4,6 @@ Using machine learning to create a model that predicts which passengers survived
 ## Before
 
 ![Test Image](images/Stock.svg)
-<img src = "images/Stock.svg">
 
 ## After
 
