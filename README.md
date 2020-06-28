@@ -8,3 +8,8 @@ Using machine learning to create a model that predicts which passengers survived
 ## After
 
 ![Test Image](images/afterF.svg)
+
+
+## Pair Plot of Features
+
+![Pair Plot](images/pairPlot.svg)
